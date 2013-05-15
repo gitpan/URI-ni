@@ -26,4 +26,4 @@ requires:
   URI: 0
 resources:
   license: http://apache.org/licenses/LICENSE-2.0
-version: 0.03
+version: 0.04
